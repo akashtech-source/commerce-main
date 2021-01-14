@@ -1,0 +1,34 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Cormorant Unicase', serif;
+}
+.navbar img{
+    width: 250px;
+}
+.top-banner img{
+    width: 500px;
+}.header-text{
+    font-size: 60px;
+}
+header{
+    background-color: #FFFBF0;
+}
+.jacket img{
+    width: 250px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.card-footer{
+    border: 0;
+    background-color: white;
+}
+.final-sec{
+    margin-top: 100px;
+}
+.final-sec img{
+    width: 100px;
+}
+.final{
+    padding-left: 150px;
+    margin-top: 3em;
+}
